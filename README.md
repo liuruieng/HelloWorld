@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 [<img src="https://avatars1.githubusercontent.com/u/56981081?s=460&v=4" width="100px;"/><br /><sub><b>IFP</b></sub>](https://github.com/dummyifp)<br />[💻](https://github.com/dummyifp/HelloWorld/commits?author=dummyifp "Code") | 
 <br />[💻](https://github.com/zukarusan/HelloWorld/commits?author=zukarusan "Code") | [<img src="https://avatars3.githubusercontent.com/u/44023565?s=460&v=4" width="100px;"/><br /><sub><b>Zukarusan</b></sub>](https://github.com/zukarusan)
 
+[<img src="https://avatars3.githubusercontent.com/u/440235112323?s=460&v=4" width="100px;"/><br /><sub><b>Kshitij Alwadhi</b></sub>](https://github.com/kshitijalwadhi)
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
